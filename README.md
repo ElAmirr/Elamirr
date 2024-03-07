@@ -4,7 +4,8 @@
 I'm a passionate frontend and backend developer based in Tunisia. Currently, I'm working on [MyGymDesk](https://mygymdesk.tn), and I'm on a learning journey with **ReactJs**.
 
 ## Connect with Me
-- 📧 Email: [elothmanielamir@gmail.com](mailto:elothmanielamir@gmail.com)
+- Website: [www.elothmanielamir.tn](https://www.elothmanielamir.tn)
+- Email: [elothmanielamir@gmail.com](mailto:elothmanielamir@gmail.com)
 - LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/el-othmani-el-amir-882879205/)
 
 ## My Projects

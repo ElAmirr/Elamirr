@@ -1,7 +1,7 @@
 # Hi 👋, I'm El Othmani El Amir
 
 ## About Me
-I'm a passionate frontend and backend developer based in Tunisia. Currently, I'm working on [MyGymDesk](https://mygymdesk.tn), and I'm on a learning journey with **ReactJs**.
+I'm a passionate frontend and backend developer based in Tunisia. Currently, I'm working on [Cashier](https://github.com/ElAmirr/cashier.git) inventory app, and I'm on a learning journey with **ReactJs**.
 
 ## Connect with Me
 - Website: [www.elothmanielamir.tn](https://www.elothmanielamir.tn)
